@@ -26,3 +26,9 @@ ol {
   font-size: 50px;
   line-height: 50px;
 }
+
+li {
+  color: blueviolet;
+  text-align: center;
+  font-style: inherit;
+}
